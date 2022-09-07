@@ -1,8 +1,10 @@
-{% assign doclist = site.pages | sort: 'url'  %}
-    <ul>
-       {% for doc in doclist %}
-            {% if doc.name contains '.md' or doc.name contains '.html' %}
-                <li><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.url }}</a></li>
-            {% endif %}
-        {% endfor %}
-    </ul>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Home</title>
+  </head>
+  <body>
+    <h1>Hello World!</h1>
+  </body>
+</html>
