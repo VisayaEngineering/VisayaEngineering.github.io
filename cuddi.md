@@ -2,6 +2,7 @@
 layout: default
 title: CuDDI
 permalink: /cuddi/
+description: Installers and documentation for CuDDI v3.0.5.0
 ---
 
 
@@ -46,19 +47,30 @@ permalink: /cuddi/
 </div>
 
 
-# CuDDI  
 
-**Color‑detection** instrumentation for copper strip analysis.  
+## Installation Steps
 
-## Key Features  
-- Automated strip feeding and scanning  
-- Real‑time HSI‑based color classification  
-- Google Sheets integration for reporting  
-- High‑throughput: up to 10 strips/minute  
+1. In the Visaya software go to **Settings → About**, then click **Exit Application**.  
+2. Log into **VISAYA Admin** using password **`visaya`**.  
+3. Run the appropriate `*.exe` installer and follow the prompts (defaults are fine).  
+4. In Windows go to **Start → Power → Restart** to reboot the LogicBox.  
+5. After reboot, verify version **3.0.5.0** in **Settings → About**.
 
-## Downloads & Docs  
-- [User Manual PDF](assets/docs/CuDDI_User_Manual.pdf)  
-- [Software Installer (v2.3.1)](assets/downloads/CuDDI_Setup_2.3.1.exe)  
+---
+## Downloads
+
+- **Update‑only installer**  
+  [VISAYA Install CuDDI Update Only 3.0.5.0](../assets/downloads/VISAYA_Install_CuDDI_Update_Only_3.0.5.0.exe)  
+- **Full installer**  
+  [VISAYA Install CuDDI Complete 3.0.5.0](../assets/downloads/VISAYA_Install_CuDDI_Complete_3.0.5.0.exe)
+
+---
+
+## Documentation
+
+- [CuDDI – User Manual (Rev 1.11)](../assets/docs/CuDDI_User_Manual_Rev1.11.pdf)
+
+---
 
 ## Support  
-For questions or calibration assistance, contact support@visaya.com.  
+For maintenance and troubleshooting, email support@visaya.com.  

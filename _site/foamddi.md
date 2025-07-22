@@ -93,5 +93,7 @@ Some Gen 2 modules will prompt for a camera‑firmware update after installing
 - [FoamDDI Ver 2 – User Manual (R1.8)](../assets/docs/FoamDDI_User_Manual_R1.8.pdf)  
 - [FoamDDI Software Release Bulletin 1.16](../assets/docs/VISAYA_FoamDDI_Software_Release_Bulletin_1.16.pdf)
 
+---
+
 ## Support  
 For maintenance and troubleshooting, email support@visaya.com.  
