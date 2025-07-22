@@ -1,1 +1,9 @@
+# ---------------------
+# Site settings
+# ---------------------
+title: "Visaya Downloads"        # shown in the navbar & <title>
+description: "Visaya units latest software"  
+
+
+
 theme: jekyll-theme-tactile

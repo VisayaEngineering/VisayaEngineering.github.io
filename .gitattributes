@@ -1,0 +1,2 @@
+assets/downloads/*.exe filter=lfs diff=lfs merge=lfs -text
+assets/downloads/*.avf filter=lfs diff=lfs merge=lfs -text
