@@ -60,9 +60,9 @@ description: Installers and documentation for CuDDI v3.0.5.0
 ## Downloads
 
 - **Update‑only installer**  
-  [VISAYA Install CuDDI Update Only 3.0.5.0](../assets/downloads/VISAYA_Install_CuDDI_Update_Only_3.0.5.0.exe)  
+  [VISAYA Install CuDDI Update Only 3.0.5.0](https://github.com/VisayaEngineering/VisayaEngineering.github.io/releases/download/v3.0.5.0/VISAYA.Install.CuDDI.Update.Only.3.0.5.0.exe)  
 - **Full installer**  
-  [VISAYA Install CuDDI Complete 3.0.5.0](../assets/downloads/VISAYA_Install_CuDDI_Complete_3.0.5.0.exe)
+  [VISAYA Install CuDDI Complete 3.0.5.0](https://github.com/VisayaEngineering/VisayaEngineering.github.io/releases/download/v3.0.5.0/VISAYA.Install.CuDDI.Complete.3.0.5.0.exe)
 
 ---
 
