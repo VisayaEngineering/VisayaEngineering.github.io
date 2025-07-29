@@ -60,9 +60,9 @@ permalink: /foamddi/
 ## Downloads
 
 - **Update‑only installer**  
-  [VISAYA Install FoamDDI Update Only 1.17.7](../assets/downloads/VISAYA_Install_FoamDDI_Update_Only_1.17.7.0.exe)  
+  [VISAYA Install FoamDDI Update Only 1.17.7](https://github.com/VisayaEngineering/VisayaEngineering.github.io/releases/download/v1.17.7/VISAYA_Install_FoamDDI_Update_Only_1.17.7.0.4.exe)  
 - **Full installer**  
-  [VISAYA Install FoamDDI Complete 1.17.7](../assets/downloads/VISAYA_Install_FoamDDI_Complete_1.17.7.0.exe)
+  [VISAYA Install FoamDDI Complete 1.17.7](https://github.com/VisayaEngineering/VisayaEngineering.github.io/releases/download/v1.17.7/VISAYA_Install_FoamDDI_Complete_1.17.7.0.1.exe)
 
 ---
 ## Post‑Update Connectivity
