@@ -2,7 +2,7 @@
 layout: default
 title: CuDDI
 permalink: /cuddi/
-description: Installers and documentation for CuDDI v3.0.5.0
+description: Installers and documentation for CuDDI v3.0.8.0
 ---
 
 
@@ -54,7 +54,7 @@ description: Installers and documentation for CuDDI v3.0.5.0
 2. Log into **VISAYA Admin** using password **`visaya`**.  
 3. Run the appropriate `*.exe` installer and follow the prompts (defaults are fine).  
 4. In Windows go to **Start → Power → Restart** to reboot the LogicBox.  
-5. After reboot, verify version **3.0.5.0** in **Settings → About**.
+5. After reboot, verify version **3.0.8.0** in **Settings → About**.
 
 ---
 ## Downloads
