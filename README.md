@@ -1,4 +1,4 @@
-## How to update Software and Firmware for website with Releases
+## How to update Software downloads for website with Releases
 
 
 1. In the repo, click “**Releases**” (on the right side) → “Draft a new release”.
