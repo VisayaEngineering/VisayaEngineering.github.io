@@ -1,7 +1,7 @@
 ﻿---
 layout: default
 title: FoamDDI
-description: Installers, instructions and documentation for FoamDDI v1.17.7
+description: Installers, instructions and documentation for FoamDDI v1.17.8
 permalink: /foamddi/
 ---
 
@@ -54,15 +54,15 @@ permalink: /foamddi/
 4. Run the appropriate `*.exe` installer and follow the prompts (defaults are fine).  
 5. Power each FoamDDI module back on via its rear switch.  
 6. In Windows go to **Start → Power → Restart** to reboot the LogicBox.  
-7. After reboot, verify version **1.17.7.0** in **Settings → About**.
+7. After reboot, verify version **1.17.8.0** in **Settings → About**.
 
 ---
 ## Downloads
 
 - **Update‑only installer**  
-  [VISAYA Install FoamDDI Update Only 1.17.7](https://github.com/VisayaEngineering/VisayaEngineering.github.io/releases/download/v1.17.7/VISAYA_Install_FoamDDI_Update_Only_1.17.7.0.4.exe)  
+  [VISAYA Install FoamDDI Update Only 1.17.8](https://github.com/VisayaEngineering/VisayaEngineering.github.io/releases/download/v1.17.8/VISAYA.Install.FoamDDI.Update.Only.1.17.8.0.exe)  
 - **Full installer**  
-  [VISAYA Install FoamDDI Complete 1.17.7](https://github.com/VisayaEngineering/VisayaEngineering.github.io/releases/download/v1.17.7/VISAYA_Install_FoamDDI_Complete_1.17.7.0.1.exe)
+  [VISAYA Install FoamDDI Complete 1.17.8](https://github.com/VisayaEngineering/VisayaEngineering.github.io/releases/download/v1.17.8/VISAYA.Install.FoamDDI.Complete.1.17.8.0.exe)
 
 ---
 ## Post‑Update Connectivity
