@@ -2,7 +2,7 @@
 layout: default
 title: CuDDI
 permalink: /cuddi/
-description: Installers and documentation for CuDDI v3.0.8.0
+description: Installers and documentation for CuDDI v3.0.10.0
 ---
 
 
@@ -104,7 +104,7 @@ We are actively working to make the new software available for all units; if you
 
   <!-- New installer (shown only for "Upgrade OK") -->
   <a id="new-installer"
-     href="https://github.com/VisayaEngineering/VisayaEngineering.github.io/releases/download/v3.0.8.0/VISAYA.Install.CuDDI.Complete.3.0.8.0.exe"
+     href="https://github.com/VisayaEngineering/VisayaEngineering.github.io/releases/download/v3.0.10.0/VISAYA.Install.CuDDI.Complete.3.0.10.0.exe"
      target="_blank" rel="noopener"
      style="display:none;">Download new CuDDI installer</a>
 
@@ -239,15 +239,15 @@ We are actively working to make the new software available for all units; if you
 2. Log into **VISAYA Admin** using password **`visaya`**.  
 3. Run the appropriate `*.exe` installer and follow the prompts (defaults are fine).  
 4. In Windows go to **Start → Power → Restart** to reboot the LogicBox.  
-5. After reboot, verify version **3.0.8.0** in **Settings → About**.
+5. After reboot, verify version **3.0.10.0** in **Settings → About**.
 
 ---
 ## Downloads
 
 - **Update‑only installer**  
-  [VISAYA Install CuDDI Update Only 3.0.8.0](https://github.com/VisayaEngineering/VisayaEngineering.github.io/releases/download/v3.0.8.0/VISAYA.Install.CuDDI.Update.Only.3.0.8.0.exe)  
+  [VISAYA Install CuDDI Update Only 3.0.10.0](https://github.com/VisayaEngineering/VisayaEngineering.github.io/releases/download/v3.0.10.0/VISAYA.Install.CuDDI.Update.Only.3.0.10.0.exe)  
 - **Full installer**  
-  [VISAYA Install CuDDI Complete 3.0.8.0](https://github.com/VisayaEngineering/VisayaEngineering.github.io/releases/download/v3.0.8.0/VISAYA.Install.CuDDI.Complete.3.0.8.0.exe)
+  [VISAYA Install CuDDI Complete 3.0.10.0](https://github.com/VisayaEngineering/VisayaEngineering.github.io/releases/download/v3.0.10.0/VISAYA.Install.CuDDI.Complete.3.0.10.0.exe)
 
 #### Legacy Installer (for older Basler cameras)
 
