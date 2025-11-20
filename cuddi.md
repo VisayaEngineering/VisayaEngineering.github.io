@@ -261,7 +261,7 @@ We are actively working to make the new software available for all units; if you
 
 ## Documentation
 
-- [CuDDI – User Manual (Rev 3.0)](../assets/docs/CuDDI_User_Manual_SF3.0_High_Res.pdf)
+- [CuDDI – User Manual Ver 3 (Rev 2.1)](../assets/docs/CuDDI - User Manual - SF3.0  - Rev2.1.pdf)
 
 ---
 
