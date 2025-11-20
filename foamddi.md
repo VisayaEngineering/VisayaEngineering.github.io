@@ -173,9 +173,9 @@ FoamDDI units manufactured **before Nov 2020** should use the **legacy 1.7.9** r
 ## Downloads
 
 - **Update‑only installer**  
-  [VISAYA Install FoamDDI Update Only 1.17.8C](https://github.com/VisayaEngineering/VisayaEngineering.github.io/releases/download/v1.17.9/VISAYA.Install.FoamDDI.Complete.1.17.9.0.exe)  
+  [VISAYA Install FoamDDI Update Only 1.17.9](https://github.com/VisayaEngineering/VisayaEngineering.github.io/releases/download/v1.17.9/VISAYA.Install.FoamDDI.Complete.1.17.9.0.exe)  
 - **Full installer**  
-  [VISAYA Install FoamDDI Complete 1.17.8C](https://github.com/VisayaEngineering/VisayaEngineering.github.io/releases/download/v1.17.9/VISAYA.Install.FoamDDI.Update.Only.1.17.9.0.exe)
+  [VISAYA Install FoamDDI Complete 1.17.9](https://github.com/VisayaEngineering/VisayaEngineering.github.io/releases/download/v1.17.9/VISAYA.Install.FoamDDI.Update.Only.1.17.9.0.exe)
 
 #### Legacy Installer 
 
