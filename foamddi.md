@@ -43,7 +43,7 @@ permalink: /foamddi/
   <a class="tab" href="/">Home</a>
   <a class="tab" href="/cuddi/">CuDDI</a>
   <a class="tab tab-active" href="/foamddi/">FoamDDI</a>
-  â€¦
+  …
 </div>
 
 ## FoamDDI software overview
@@ -91,7 +91,7 @@ FoamDDI units manufactured **before Nov 2020** should use the **legacy 1.7.9** r
   </div>
 
   <noscript>
-    <div class="serial-result no">JavaScript is disabled â€” please contact <a href="mailto:support@visaya.com">support@visaya.com</a> with your serial and we will advise.</div>
+    <div class="serial-result no">JavaScript is disabled — please contact <a href="mailto:support@visaya.com">support@visaya.com</a> with your serial and we will advise.</div>
   </noscript>
 </div>
 
@@ -116,11 +116,11 @@ FoamDDI units manufactured **before Nov 2020** should use the **legacy 1.7.9** r
   function check(serialRaw){
     if(!serialRaw){ showMessage('no','Please enter a serial number.'); return; }
     const digits = serialRaw.replace(/\D/g,'');
-    if(digits.length < 4){ showMessage('no','Serial too short â€” enter at least first 4 digits (YYMM).'); return; }
+    if(digits.length < 4){ showMessage('no','Serial too short — enter at least first 4 digits (YYMM).'); return; }
     const prefix = digits.slice(0,4);
     const yy = parseInt(prefix.slice(0,2),10);
     const mm = parseInt(prefix.slice(2,4),10);
-    if(isNaN(yy) || isNaN(mm) || mm < 1 || mm > 12){ showMessage('no','Invalid serial prefix: month must be 01â€“12. Received: ' + prefix); return; }
+    if(isNaN(yy) || isNaN(mm) || mm < 1 || mm > 12){ showMessage('no','Invalid serial prefix: month must be 01–12. Received: ' + prefix); return; }
 
     const year = 2000 + yy;
     const month = mm;
@@ -131,11 +131,11 @@ FoamDDI units manufactured **before Nov 2020** should use the **legacy 1.7.9** r
     const friendly = monthNames[month-1] + ' ' + year;
 
     if(manufactured >= threshold){
-      showMessage('ok','<strong>Upgrade OK</strong> â€” Serial indicates manufacture in <strong>' + friendly + '</strong>.<br>The unit is eligible for the newest FoamDDI software.');
+      showMessage('ok','<strong>Upgrade OK</strong> — Serial indicates manufacture in <strong>' + friendly + '</strong>.<br>The unit is eligible for the newest FoamDDI software.');
       showOnly(newLink);
     } else {
       showMessage('no',
-          '<strong>Use legacy software</strong> â€” Serial indicates manufacture in <strong>' + friendly + '</strong>.<br>' +
+          '<strong>Use legacy software</strong> — Serial indicates manufacture in <strong>' + friendly + '</strong>.<br>' +
           'Install legacy FoamDDI 1.7.9 for this unit. If you would like to upgrade to a newer unit, please contact <a href="mailto:support@visaya.com">support@visaya.com</a> to discuss options.'
       );
       showOnly(legacyLink);
@@ -161,18 +161,18 @@ FoamDDI units manufactured **before Nov 2020** should use the **legacy 1.7.9** r
 
 ## Installation Steps
 
-1. In the Visaya software go to **Settingsâ€¯â†’â€¯About** and click **Exit Application**.  
+1. In the Visaya software go to **Settings → About** and click **Exit Application**.  
 2. Log into **VISAYA Admin** using password **`visaya`**.  
 3. On each FoamDDI module, power off with the rear on/off switch.  
 4. Run the appropriate `*.exe` installer and follow the prompts (defaults are fine).  
 5. Power each FoamDDI module back on via its rear switch.  
-6. In Windows go to **Startâ€¯â†’â€¯Powerâ€¯â†’â€¯Restart** to reboot the LogicBox.  
-7. After reboot, verify version **1.20.5** in **Settingsâ€¯â†’â€¯About**.
+6. In Windows go to **Start → Power → Restart** to reboot the LogicBox.  
+7. After reboot, verify version **1.20.5** in **Settings → About**.
 
 ---
 ## Downloads
 
-- **Updateâ€‘only installer**  
+- **Update‑only installer**  
   [VISAYA Install FoamDDI Update Only 1.20.5](https://github.com/VisayaEngineering/VisayaEngineering.github.io/releases/download/v1.20.5/VISAYA.Install.FoamDDI.Update.Only.1.20.5.0.exe)  
 - **Full installer**  
   [VISAYA Install FoamDDI Complete 1.20.5](https://github.com/VisayaEngineering/VisayaEngineering.github.io/releases/download/v1.20.5/VISAYA.Install.FoamDDI.Complete.1.20.5.0.exe)
@@ -183,24 +183,24 @@ FoamDDI units manufactured **before Nov 2020** should use the **legacy 1.7.9** r
   [VISAYA Install FoamDDI 1.7.9](https://github.com/VisayaEngineering/VisayaEngineering.github.io/releases/download/v1.7.9/Install.FoamDDI.1.7.9.64bit.exe)
 
 ---
-## Postâ€‘Update Connectivity
+## Post‑Update Connectivity
 
 If modules still fail to connect:
 
-- Power off the module for **30â€¯seconds**.  
+- Power off the module for **30 seconds**.  
 - Inspect and reseat the USB cable.  
-- Power back on and allow the Visaya software up to **2â€¯minutes** to reconnect.  
-- If it still doesnâ€™t appear, restart the Visaya application.
+- Power back on and allow the Visaya software up to **2 minutes** to reconnect.  
+- If it still doesn’t appear, restart the Visaya application.
 
 ---
 
 ## Camera Firmware Update
 
-Some Genâ€¯2 modules will prompt for a cameraâ€‘firmware update after installing the software. To update:
+Some Gen 2 modules will prompt for a camera‑firmware update after installing the software. To update:
 
 1. Download the firmware bundle:  
    [Alvium_U3V_Camera_00.14.00.baba1e3c.avf](../assets/downloads/Alvium_U3V_Camera_00.14.00.baba1e3c.avf)  
-2. Open **Upgrading Camera Firmware.pdf** (below) for stepâ€‘byâ€‘step instructions.  
+2. Open **Upgrading Camera Firmware.pdf** (below) for step‑by‑step instructions.  
 3. Apply the update to **both** cameras on each module.
 
 ---
@@ -208,9 +208,9 @@ Some Genâ€¯2 modules will prompt for a cameraâ€‘firmware update after i
 ## Additional Documentation
 
 - [Upgrading Camera Firmware.pdf](../assets/docs/Updating_Camera_Firmware.pdf)  
-- [FoamDDI VerÂ 2 â€“ User Manual (R2.0)](../assets/docs/FoamDDI_User Manual_SF2.0.pdf)  
-- [FoamDDI Software Release BulletinÂ 1.17](../assets/docs/VISAYA_FoamDDI_Software_Release_Bulletin_1.17.pdf)
-- [FoamDDI Software Release BulletinÂ 1.16](../assets/docs/VISAYA_FoamDDI_Software_Release_Bulletin_1.16.pdf)
+- [FoamDDI Ver 2 – User Manual (R2.0)](../assets/docs/FoamDDI_User Manual_SF2.0.pdf)  
+- [FoamDDI Software Release Bulletin 1.17](../assets/docs/VISAYA_FoamDDI_Software_Release_Bulletin_1.17.pdf)
+- [FoamDDI Software Release Bulletin 1.16](../assets/docs/VISAYA_FoamDDI_Software_Release_Bulletin_1.16.pdf)
 
 ---
 
