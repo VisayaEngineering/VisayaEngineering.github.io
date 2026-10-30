@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FoamDDI
-description: Installers, instructions and documentation for FoamDDI v1.20.5
+description: Installers, instructions and documentation for FoamDDI v1.20.6
 permalink: /foamddi/
 ---
 
@@ -81,7 +81,7 @@ FoamDDI units manufactured **before Nov 2020** should use the **legacy 1.7.9** r
 
   <div class="links" id="foam-links" style="display:none;">
     <!-- Replace these hrefs with your actual release/asset links -->
-    <a id="foam-new" href="https://github.com/VisayaEngineering/VisayaEngineering.github.io/releases/download/v1.20.5/VISAYA.Install.FoamDDI.Complete.1.20.5.0.exe" target="_blank" rel="noopener" style="display:none;">Download new FoamDDI installer</a>
+    <a id="foam-new" href="https://github.com/VisayaEngineering/VisayaEngineering.github.io/releases/download/v1.20.6/VISAYA.Install.FoamDDI.Complete.1.20.6.0.exe" target="_blank" rel="noopener" style="display:none;">Download new FoamDDI installer</a>
     <a id="foam-legacy" href="https://github.com/VisayaEngineering/VisayaEngineering.github.io/releases/download/v1.7.9/Install.FoamDDI.1.7.9.64bit.exe" target="_blank" rel="noopener" style="display:none;">Download legacy FoamDDI 1.7.9</a>
     <a id="foam-contact" href="mailto:support@visaya.com" style="display:none;">Contact support@visaya.com</a>
   </div>
@@ -167,15 +167,15 @@ FoamDDI units manufactured **before Nov 2020** should use the **legacy 1.7.9** r
 4. Run the appropriate `*.exe` installer and follow the prompts (defaults are fine).  
 5. Power each FoamDDI module back on via its rear switch.  
 6. In Windows go to **Start → Power → Restart** to reboot the LogicBox.  
-7. After reboot, verify version **1.20.5** in **Settings → About**.
+7. After reboot, verify version **1.20.6** in **Settings → About**.
 
 ---
 ## Downloads
 
 - **Update‑only installer**  
-  [VISAYA Install FoamDDI Update Only 1.20.5](https://github.com/VisayaEngineering/VisayaEngineering.github.io/releases/download/v1.20.5/VISAYA.Install.FoamDDI.Update.Only.1.20.5.0.exe)  
+  [VISAYA Install FoamDDI Update Only 1.20.6](https://github.com/VisayaEngineering/VisayaEngineering.github.io/releases/download/v1.20.6/VISAYA.Install.FoamDDI.Update.Only.1.20.6.0.exe)  
 - **Full installer**  
-  [VISAYA Install FoamDDI Complete 1.20.5](https://github.com/VisayaEngineering/VisayaEngineering.github.io/releases/download/v1.20.5/VISAYA.Install.FoamDDI.Complete.1.20.5.0.exe)
+  [VISAYA Install FoamDDI Complete 1.20.6](https://github.com/VisayaEngineering/VisayaEngineering.github.io/releases/download/v1.20.6/VISAYA.Install.FoamDDI.Complete.1.20.6.0.exe)
 
 #### Legacy Installer 
 
